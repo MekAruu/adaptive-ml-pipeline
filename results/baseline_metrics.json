@@ -1,0 +1,6 @@
+{
+  "model": "LinearRegression",
+  "setting": "walk-forward baseline",
+  "MAE": 0.04027779682807948,
+  "RMSE": 0.049873001876220235
+}

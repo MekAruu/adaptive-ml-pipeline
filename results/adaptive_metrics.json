@@ -1,0 +1,7 @@
+{
+  "model": "SGDRegressor",
+  "setting": "drift-aware partial_fit + scaling (window=200, step=50, thr=0.25)",
+  "MAE": 0.1722515766085465,
+  "RMSE": 0.18256066602168355,
+  "drift_updates": 35
+}
